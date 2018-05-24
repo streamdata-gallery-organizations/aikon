@@ -12,8 +12,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28176-aiko
 x-kinRank: "7"
 x-alexaRank: "7457402"
 tags: AIKON
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aikon/master/_listings/aikon/apis.md
 specificationVersion: "0.14"
 apis: []
